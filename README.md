@@ -2,6 +2,8 @@
 
 **Diplomado Gestión de Datos 2026**
 
+**Entregable:** Link del repositorio con la solución.
+
 ## 📝 Contexto
 Tienes una carpeta `landing/` llena de archivos recibidos de diversos sensores y sistemas. Lamentablemente, la transmisión es inestable y muchos archivos llegan corruptos (vacíos).
 
