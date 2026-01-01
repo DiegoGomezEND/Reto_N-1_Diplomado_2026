@@ -1,0 +1,224 @@
+2025-12-31T16:00:08 - INFO - Iniciando el proceso de ingesta de datos
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_090037_100.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_090037_100.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_090537_99.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_090537_99.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_091037_98.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_091037_98.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_091537_97.xml
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_091537_97.xml: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_091537_97.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_092037_96.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_092037_96.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_092537_95.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_092537_95.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_093037_94.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_093037_94.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_093537_93.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_093537_93.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_094037_92.json
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_094037_92.json: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_094037_92.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_094537_91.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_094537_91.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_095037_90.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_095037_90.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_095537_89.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_095537_89.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_100037_88.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_100037_88.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_100537_87.xml
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_100537_87.xml: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_100537_87.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_101037_86.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_101037_86.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_101537_85.json
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_101537_85.json: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_101537_85.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_102037_84.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_102037_84.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_102537_83.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_102537_83.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_103037_82.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_103037_82.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_103537_81.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_103537_81.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_104037_80.xml
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_104037_80.xml: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_104037_80.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_104537_79.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_104537_79.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_105037_78.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_105037_78.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_105537_77.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_105537_77.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_110037_76.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_110037_76.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_110537_75.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_110537_75.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_111037_74.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_111037_74.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_111537_73.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_111537_73.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_112037_72.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_112037_72.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_112537_71.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_112537_71.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_113037_70.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_113037_70.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_113037_70.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_113537_69.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_113537_69.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_114037_68.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_114037_68.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_114537_67.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_114537_67.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_115037_66.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_115037_66.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_115537_65.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_115537_65.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_120037_64.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_120037_64.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_120537_63.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_120537_63.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_121037_62.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_121037_62.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_121537_61.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_121537_61.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_122037_60.json
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_122037_60.json: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_122037_60.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_122537_59.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_122537_59.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_123037_58.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_123037_58.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_123537_57.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_123537_57.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_124037_56.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_124037_56.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_124537_55.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_124537_55.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_125037_54.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_125037_54.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_125537_53.csv
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_125537_53.csv: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_125537_53.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_130037_52.csv
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_130037_52.csv: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_130037_52.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_130537_51.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_130537_51.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_131037_50.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_131037_50.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_131537_49.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_131537_49.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_132037_48.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_132037_48.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_132537_47.xml
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_132537_47.xml: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_132537_47.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_133037_46.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_133037_46.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_133537_45.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_133537_45.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_134037_44.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_134037_44.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_134037_44.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_134537_43.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_134537_43.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_135037_42.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_135037_42.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_135537_41.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_135537_41.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_140037_40.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_140037_40.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_140037_40.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_140537_39.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_140537_39.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_141037_38.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_141037_38.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_141537_37.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_141537_37.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_142037_36.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_142037_36.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_142537_35.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_142537_35.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_142537_35.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_143037_34.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_143037_34.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_143537_33.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_143537_33.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_144037_32.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_144037_32.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_144537_31.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_144537_31.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_145037_30.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_145037_30.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_145537_29.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_145537_29.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_150037_28.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_150037_28.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_150537_27.xml
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_150537_27.xml: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_150537_27.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_151037_26.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_151037_26.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_151537_25.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_151537_25.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_152037_24.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_152037_24.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_152537_23.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_152537_23.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_153037_22.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_153037_22.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_153537_21.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_153537_21.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_154037_20.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_154037_20.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_154037_20.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_154537_19.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_154537_19.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_155037_18.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_155037_18.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_155537_17.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_155537_17.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_160037_16.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_160037_16.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_160537_15.csv
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_160537_15.csv: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_160537_15.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_161037_14.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_161037_14.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_161537_13.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_161537_13.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_162037_12.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_162037_12.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_162537_11.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_162537_11.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_163037_10.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_163037_10.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_163537_9.csv
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_163537_9.csv
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_164037_8.log
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_164037_8.log: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_164037_8.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_164537_7.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_164537_7.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_165037_6.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_165037_6.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_165537_5.xml
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_165537_5.xml
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_170037_4.log
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_170037_4.log
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_170537_3.json
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_170537_3.json: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_170537_3.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_171037_2.json
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bronze: bronze\data_batch_20251222_171037_2.json
+2025-12-31T16:00:08 - INFO - Procesando el archivo: data_batch_20251222_171537_1.json
+2025-12-31T16:00:08 - ERROR - Error al procesar el archivo data_batch_20251222_171537_1.json: El archivo esta vacio
+2025-12-31T16:00:08 - INFO - Archivo movido a la carpeta bad_data: bad_data\data_batch_20251222_171537_1.json
+2025-12-31T16:00:08 - INFO - Resumen final del proceso
+2025-12-31T16:00:08 - INFO - Archivos enviados a Bronze: 81
+2025-12-31T16:00:08 - INFO - Archivos enviados a Bad Data: 19
+2025-12-31T16:00:08 - INFO - Proceso de ingesta finalizado
